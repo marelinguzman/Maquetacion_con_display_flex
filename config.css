@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    font-size: 10px;
+}
+
+
+font - family: roboto sans serif;
+
+root[
+    --naraja-dark: #FF7A1A;
+    --morado: #9571F6;
+    --naraja-lithe:;
+
+]
+
